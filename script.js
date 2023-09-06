@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://cllive.itworkscdn.net/ksaquranlive/token=nva=1693953243~dirs=1~hash=0605f3368bf49f7eddfc5/ksaquran.smil/playlist_dvr.m3u8';
+  const source = 'https://cllive.itworkscdn.net/ksaquranlive/token=nva=1694019518~dirs=1~hash=0bdd6593aa8367f803924/ksaquran.smil/playlist_dvr.m3u8';
   const video = document.querySelector('video');
 
   const defaultOptions = {};
